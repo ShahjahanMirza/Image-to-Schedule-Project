@@ -1,0 +1,24 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+
+
+# Virtual Environment
+img_schedule_env/
+.env
+
+# Visual Studio Code
+.vscode/
+
+# CSV Data
+events.csv
+
+# Images
+*.jpg
+*.png
+*.jpeg
+
+# Miscellaneous
+*.log
+*.swp
+*.swo
