@@ -1,4 +1,5 @@
 **Image to Schedule Converter**
+
 This project is a Python-based application that allows users to upload an image containing a schedule or timetable, and it automatically extracts the event details, including titles and dates, from the image. The extracted information is then stored in a CSV file and displayed in a user-friendly Tkinter GUI.
 
 **Features**
@@ -10,6 +11,7 @@ This project is a Python-based application that allows users to upload an image 
 5. Calculate the remaining time for each event and display it in the GUI
 
 **Requirements**
+
 Python 3.x
 OpenCV
 Pandas
@@ -32,4 +34,5 @@ Google Generative AI API (requires an API key)
  The remaining time for each event will be calculated and displayed in the GUI.
 
 **Contributing**
+
 Contributions are welcome! If you find any issues or have suggestions for improvements, please open an issue or submit a pull request.
