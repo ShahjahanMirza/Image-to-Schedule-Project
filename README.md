@@ -3,11 +3,11 @@ This project is a Python-based application that allows users to upload an image 
 
 **Features**
 
-> Upload an image containing a schedule or timetable
-> Automatic image processing and event extraction using computer vision and natural language processing techniques
-> Store extracted event details (title, date, and formatted date) in a CSV file
-> Display the extracted events in a Tkinter GUI with options to edit, delete, and add new events
-> Calculate the remaining time for each event and display it in the GUI
+> 1. Upload an image containing a schedule or timetable
+> 2. Automatic image processing and event extraction using computer vision and natural language processing techniques
+> 3. Store extracted event details (title, date, and formatted date) in a CSV file
+> 4. Display the extracted events in a Tkinter GUI with options to edit, delete, and add new events
+> 5. Calculate the remaining time for each event and display it in the GUI
 
 **Requirements**
 Python 3.x
