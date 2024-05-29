@@ -1,4 +1,5 @@
 **Image to Schedule Converter**
+
 ![thumbnail](https://github.com/ShahjahanMirza/Image-to-Schedule-Project/assets/103453568/b5c7721a-eb85-4b5e-bd24-7e63392763f4)
 
 This project is a Python-based application that allows users to upload an image containing a schedule or timetable, and it automatically extracts the event details, including titles and dates, from the image. The extracted information is then stored in a CSV file and displayed in a user-friendly Tkinter GUI.
